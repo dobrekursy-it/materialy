@@ -11,6 +11,6 @@
     "test": "cucumber-js"
   },
   "dependencies": {
-    "chromedriver": "^108.0.0"
+    "chromedriver": "^111.0.0"
   }
 }
