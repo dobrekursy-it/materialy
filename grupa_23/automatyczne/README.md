@@ -1,4 +1,4 @@
-yarn# Jak uruchomić projekt
+Jak uruchomić projekt
 
 ## Wymagania
 do zainstalowania:
