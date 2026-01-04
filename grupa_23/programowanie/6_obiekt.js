@@ -38,3 +38,8 @@ kursanci = [
 console.log(kursanci);
 
 console.log(kursanci[0].imie);
+
+// kursant = {
+//     imie: "Szymon",
+//     wiek: 37,
+// };
